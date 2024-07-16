@@ -1,6 +1,6 @@
 # Tic-Tac-Toe AI Game
 
-In the realm of classic entertainment, we've brought the universally enjoyed game of Tic-Tac-Toe to life through our Python implementation featuring a user-friendly graphical interface powered by the PyGame library. Players can relish the timeless 'X' versus 'O' match-up, with the added thrill of challenging an AI opponent at varying difficulty levels: Easy, Medium, or Hard.
+In the realm of classic entertainment, I've brought the universally enjoyed game of Tic-Tac-Toe to life through the Python implementation featuring a user-friendly graphical interface powered by the PyGame library. Players can relish the timeless 'X' versus 'O' match-up, with the added thrill of challenging an AI opponent at varying difficulty levels: Easy, Medium, or Hard.
 
 ## AI Algorithm
 
@@ -16,8 +16,8 @@ To enhance the efficiency of our AI, we've integrated several key optimizations:
 
 2. **Depth-Limited Search Strategies**: 
     - By imposing a cap on the number of moves the AI considers ahead, we strike a balance between computational efficiency and strategic exploration.
-    - We start from a depth of 0 and increment by 1 for each recursive call until we reach a maximum depth of 5, at which the AI performs its evaluation.
-    - Additionally, we've modified the utility function in the depth-limited search to prioritize faster victories and losses.
+    - I start from a depth of 0 and increment by 1 for each recursive call until we reach a maximum depth of 5, at which the AI performs its evaluation.
+    - Additionally, I've modified the utility function in the depth-limited search to prioritize faster victories and losses.
 
 ## Difficulty Levels
 
@@ -50,4 +50,4 @@ This will launch the game window, allowing you to play Tic-Tac-Toe against the A
 
 ## Conclusion
 
-Our implementation of the classic game Tic-Tac-Toe represents a harmonious blend of user-friendly design and advanced artificial intelligence. Our work not only revitalizes the classic Tic-Tac-Toe game but also provides a dynamic and challenging AI opponent, offering a range of experiences for players of all skill levels.
+The implementation of the classic game Tic-Tac-Toe represents a harmonious blend of user-friendly design and advanced artificial intelligence. 
