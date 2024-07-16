@@ -34,7 +34,7 @@ To run the Tic-Tac-Toe AI game on your local machine, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Mariamhsein2001/TicTacToe.git
     ```
 2. **Install the required dependencies**:
     ```bash
